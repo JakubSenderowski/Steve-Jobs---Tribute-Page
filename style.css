@@ -1,0 +1,32 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #fffdd0;
+}
+h1 {
+	text-align: center;
+}
+.datasmierci {
+	text-align: center;
+}
+img {
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.opis {
+	text-align: center;
+}
+.iphony {
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
+.smierc {
+	text-align: center;
+}
+footer {
+	text-align: center;
+	font-weight: bold;
+}
